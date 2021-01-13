@@ -205,7 +205,7 @@ class Game:
             pygame.mixer.Sound.play(self.pongSound)
 
     def onCleanUp(self):
-        # Basically closes the program
+        # B̶a̶s̶i̶c̶a̶l̶l̶y̶ ̶c̶l̶o̶s̶e̶s̶ ̶t̶h̶e̶ ̶p̶r̶o̶g̶r̶a̶m̶ It just crashes.
         pygame.onCleanUp()
 
     def start(self):
